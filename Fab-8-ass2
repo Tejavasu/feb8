@@ -1,0 +1,7 @@
+# program to convert km to m
+km = input("Enter the  distanc
+
+e in kilometer: ")
+km = float(km)
+m = km * 1000;
+print("%f Kilometer = %f Meter" %(km,m))
