@@ -1,0 +1,9 @@
+#working on comparision operators
+#Take two inputs and perform all comparison operations
+a=10
+b=20
+print(a<b)
+print(a>b)
+print(a==b)
+print(a<=b)
+print(a>=b)
